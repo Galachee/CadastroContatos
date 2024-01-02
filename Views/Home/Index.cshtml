@@ -1,0 +1,38 @@
+﻿@{
+    ViewData["Title"] = "Página Inicial";
+}
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>@ViewData["Title"]</title>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css">
+    <!-- Adicione outros estilos conforme necessário -->
+</head>
+<body class="bg-light">
+    
+    <div class="container mt-5">
+        <div class="text-center">
+            <h1 class="display-4">Seja Bem Vindo</h1>
+            <p class="lead">Sistema de Cadastro de Contatos</p>
+        </div>
+
+        <div class="row mt-5">
+            <div class="col-md-6 offset-md-3">
+                <div class="card">
+                    <div class="card-body">
+                        <h5 class="card-title">Comece Agora!</h5>
+                        <p class="card-text">Registre seus contatos e mantenha-os organizados.</p>
+                        <a asp-controller="Contato" asp-action="index" class="btn btn-primary">Ir para Lista de Contatos</a>
+                        
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    
+    
+
+</body>
+</html>
