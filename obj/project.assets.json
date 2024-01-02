@@ -3516,11 +3516,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\vitor\\Documents\\MVC\\Cadastro2\\CadastroMVC2\\CadastroMVC2\\CadastroMVC2.csproj",
+      "projectUniqueName": "C:\\Users\\vitor\\Documents\\CadastroContatos\\CadastroMVC2\\CadastroMVC2.csproj",
       "projectName": "CadastroMVC2",
-      "projectPath": "C:\\Users\\vitor\\Documents\\MVC\\Cadastro2\\CadastroMVC2\\CadastroMVC2\\CadastroMVC2.csproj",
+      "projectPath": "C:\\Users\\vitor\\Documents\\CadastroContatos\\CadastroMVC2\\CadastroMVC2.csproj",
       "packagesPath": "C:\\Users\\vitor\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\vitor\\Documents\\MVC\\Cadastro2\\CadastroMVC2\\CadastroMVC2\\obj\\",
+      "outputPath": "C:\\Users\\vitor\\Documents\\CadastroContatos\\CadastroMVC2\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\vitor\\AppData\\Roaming\\NuGet\\NuGet.Config",

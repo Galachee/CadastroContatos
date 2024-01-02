@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "QqTys4aVRQ1hXNdWzgsTVZFEnrtBL8kVmZqEyYPGFlVVKFD5G0DS/3Ee9N25+sgytmHK2kjz4kB7EHrCxsTCUg==",
+  "dgSpecHash": "JJfPjlvSRktH/mPRVyu95/CTqvTc83a32v/iwhiqf0GkYP770mNS3Hk2n0aXpl7lyfO3h+VWh+A5WhqAqC2+Wg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\vitor\\Documents\\MVC\\Cadastro2\\CadastroMVC2\\CadastroMVC2\\CadastroMVC2.csproj",
+  "projectFilePath": "C:\\Users\\vitor\\Documents\\CadastroContatos\\CadastroMVC2\\CadastroMVC2.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\vitor\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\vitor\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",
